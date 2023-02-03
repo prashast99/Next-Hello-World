@@ -10,7 +10,7 @@ export default function Navbar() {
   return (
     <nav className="header">
       <h1 className="logo">
-        <a href="/">NeXT APP</a>
+      <Link href="/">NeXT APP</Link>
       </h1>
       <ul
         className={`main-nav ${

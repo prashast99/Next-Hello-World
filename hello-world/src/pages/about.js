@@ -17,6 +17,5 @@ export default About
 About.getLayout = page => (
   <>
     {page}
-    <Footer />
   </>
 )
