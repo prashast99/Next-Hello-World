@@ -1,0 +1,13 @@
+.highlight {
+    color: red;
+  }
+
+.h1 {
+    color: #34495e;
+    text-align: center;
+    margin-top: 10px;
+  }
+
+#linkname{
+    display: inline-block;
+}
