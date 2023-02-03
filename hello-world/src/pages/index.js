@@ -25,7 +25,6 @@ function Home(){
       <Link href='/blog' className="footerlinks">Blog</Link><br />
       <Link href='/about' className="footerlinks">About</Link><br />
       <Link href='/profile' className="footerlinks">Profile</Link><br />
-      <Link href='/products'>Products</Link><br />
       <Link href='/posts'>Posts</Link><br />
       <Link href='/news'>News</Link><br />
       
